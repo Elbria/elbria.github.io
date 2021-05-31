@@ -5,12 +5,36 @@
     <link>https://elbria.github.io/</link>
       <atom:link href="https://elbria.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>eleftheria </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Eleftheria Briakou</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Eleftheria Briakou</copyright><lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>eleftheria </title>
       <link>https://elbria.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Review of Human Evaluation for Style Transfer</title>
+      <link>https://elbria.github.io/publication/f/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Noise: Mitigating  the  Impact of Fine-grained Semantic Divergencs  on  Neural Machine Translation</title>
+      <link>https://elbria.github.io/publication/g/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olá, Bonjour, Salve! XFORMAL: A Benchmark for Multilingual Formality Style Transfer</title>
+      <link>https://elbria.github.io/publication/e/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/e/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rationalized English-French Semantic Divergences: annotation workflow</title>
@@ -56,11 +80,9 @@ computational methods to detect such meaning mismatches can be assessed by compa
 
 &lt;h3 id=&#34;annotation-workflow&#34;&gt;Annotation workflow&lt;/h3&gt;
 
-&lt;p&gt;The following chart presents the annotation workflow used for collecting REFreSD. People involved
+&lt;p&gt;&lt;a href=&#34;files/REFreSD.pdf&#34; target=&#34;_blank&#34;&gt;This chart&lt;/a&gt; presents the annotation workflow used for collecting REFreSD. People involved
 in each step of the process are listed on the right, while documents those people are presented
 with are shown on the left.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;files/REFreSD.pdf&#34; height=&#34;50px&#34; width=&#34;400px&#34; &gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -109,6 +131,14 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1803.09010.pdf&#34; target=&#34;_blank&#34;&gt;Datasheets for Datasets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank</title>
+      <link>https://elbria.github.io/publication/a/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/a/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -510,14 +540,6 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://software.intel.com/en-us/articles/hands-on-ai-part-7-augment-ai-with-human-intelligence-using-amazon-mechanical-turk&#34; target=&#34;_blank&#34;&gt;Hands-On AI Part 7: Augment AI with Human Intelligence Using Amazon Mechanical Turk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank</title>
-      <link>https://elbria.github.io/publication/a/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://elbria.github.io/publication/a/</guid>
-      <description></description>
     </item>
     
     <item>

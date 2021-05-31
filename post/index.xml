@@ -5,7 +5,7 @@
     <link>https://elbria.github.io/post/</link>
       <atom:link href="https://elbria.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Eleftheria Briakou</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Eleftheria Briakou</copyright><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -56,11 +56,9 @@ computational methods to detect such meaning mismatches can be assessed by compa
 
 &lt;h3 id=&#34;annotation-workflow&#34;&gt;Annotation workflow&lt;/h3&gt;
 
-&lt;p&gt;The following chart presents the annotation workflow used for collecting REFreSD. People involved
+&lt;p&gt;&lt;a href=&#34;files/REFreSD.pdf&#34; target=&#34;_blank&#34;&gt;This chart&lt;/a&gt; presents the annotation workflow used for collecting REFreSD. People involved
 in each step of the process are listed on the right, while documents those people are presented
 with are shown on the left.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;files/REFreSD.pdf&#34; height=&#34;50px&#34; width=&#34;400px&#34; &gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 

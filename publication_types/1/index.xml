@@ -5,7 +5,7 @@
     <link>https://elbria.github.io/publication_types/1/</link>
       <atom:link href="https://elbria.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Eleftheria Briakou</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Eleftheria Briakou</copyright><lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>A Review of Human Evaluation for Style Transfer</title>
+      <link>https://elbria.github.io/publication/f/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Noise: Mitigating  the  Impact of Fine-grained Semantic Divergencs  on  Neural Machine Translation</title>
+      <link>https://elbria.github.io/publication/g/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olá, Bonjour, Salve! XFORMAL: A Benchmark for Multilingual Formality Style Transfer</title>
+      <link>https://elbria.github.io/publication/e/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank</title>
       <link>https://elbria.github.io/publication/a/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://elbria.github.io/publication/a/</guid>
       <description></description>
     </item>
