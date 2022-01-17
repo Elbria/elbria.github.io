@@ -19,12 +19,12 @@
       <guid>https://elbria.github.io/post/refresd/</guid>
       <description>
 
-&lt;p&gt;In this blog post, I go through (all) annotation decisions involved in the collection of the Rationalized English-French
+&lt;p&gt;In this blog post, I go through (all) annotation decisions involved in collecting the Rationalized English-French
 Semantic Divergences corpus, dubbed &lt;a href=&#34;https://github.com/Elbria/xling-SemDiv/tree/master/REFreSD&#34; target=&#34;_blank&#34;&gt;REFreSD&lt;/a&gt;.
 My main goal is &lt;strong&gt;not&lt;/strong&gt; to describe REFreSD per se but rather to use it as
 an example to provide a holistic view of the annotation workflow that is
 often missing from paper descriptions. Therefore, I will not
-cover details that are too specific to the dataset at hand.
+cover details that are specific to the dataset at hand.
 If you are interested in that, you can check out the Appendix of &lt;a href=&#34;https://arxiv.org/pdf/2010.03662.pdf&#34; target=&#34;_blank&#34;&gt;our paper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This blog provides:&lt;/p&gt;
@@ -116,7 +116,7 @@ Weijia Xu. Thanks all!&lt;/p&gt;
       <guid>https://elbria.github.io/post/mturk/</guid>
       <description>
 
-&lt;p&gt;Amazon Mechanical Turk (MTurk) is a crowdsourcing marketplace that can be used to get human annotations via hiring workers to perform human intelligent tasks (HITs). In this tutorial, we are going to cover the basics on how to set up an evaluation task on MTurk from scratch. To this end, we will be focusing on the evaluation of the semantic similarity between sentences as our exemplar task; though all steps described could be easily adapted to any task.&lt;/p&gt;
+&lt;p&gt;Amazon Mechanical Turk (MTurk) is a crowdsourcing marketplace that can be used to get human annotations via hiring workers to perform human intelligent tasks (HITs). In this tutorial, we will cover the basics of how to set up an evaluation task on MTurk from scratch. To this end, we will be focusing on the evaluation of the semantic similarity between sentences as our exemplar task; though all steps described could be easily adapted to any task.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -136,7 +136,7 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 
 &lt;h3 id=&#34;setting-up-accounts&#34;&gt;Setting up accounts&lt;/h3&gt;
 
-&lt;p&gt;To get started you need four accounts:  an AWS account, and an account on the MTurk Requester site (those are needed to use MTurk when you are ready to go live and publish your task), and one account on the Requester Sandbox, and one on the Worker Sandbox (those are needed for testing your task on an isolated environment that looks like the real MTurk website before going live and publish your task on the real website).&lt;/p&gt;
+&lt;p&gt;To get started, you need four accounts:  an AWS account, and an account on the MTurk Requester site (those are needed to use MTurk when you are ready to go live and publish your task), and one account on the Requester Sandbox, and one on the Worker Sandbox (those are needed for testing your task on an isolated environment that looks like the real MTurk website before going live and publish your task on the real website).&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;1️⃣ AWS account&lt;/strong&gt;&lt;/p&gt;
 
@@ -144,7 +144,7 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 
 &lt;p&gt;To &lt;a href=&#34;https://portal.aws.amazon.com/billing/signup#/start&#34; target=&#34;_blank&#34;&gt;sign up for an AWS account&lt;/a&gt; you will need: a) an email account, b) a valid credit card (you will not be charged as there is a generous free tier), and c) a phone number (you will receive an automated phone call to verify your identity).&lt;/p&gt;
 
-&lt;p&gt;Once you have created an AWS account, you could create an IAM user to securetely control access to your AWS resources. An IAM user could grant permission to administer and use resources in your AWS account (such as access the MTurk API) without having to share your root credentials. To add an IAM user, click on the &lt;code&gt;My Security Credentials&lt;/code&gt; tab and then &lt;code&gt;Add user&lt;/code&gt; following the &lt;code&gt;Users&lt;/code&gt; tab under the DashBoard appearing on the left of the page.&lt;/p&gt;
+&lt;p&gt;Once you have created an AWS account, you could create an IAM user to securely control access to your AWS resources. An IAM user could grant permission to administer and use resources in your AWS account (such as access the MTurk API) without having to share your root credentials. To add an IAM user, click on the &lt;code&gt;My Security Credentials&lt;/code&gt; tab and then &lt;code&gt;Add user&lt;/code&gt; following the &lt;code&gt;Users&lt;/code&gt; tab under the DashBoard appearing on the left of the page.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2️⃣ MTurk Requester account&lt;/strong&gt;&lt;/p&gt;
 
@@ -194,7 +194,7 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 
 &lt;p&gt;Amazon Mechanical Turk gives us the ability to add qualification types in the creation or processing of our HIT for better quality control. Once we attach a qualification type to an HIT, a Worker can only perform the task if they have this qualification. Apart from predefined qualifications, MTurk gives us the flexibility to create our own qualification type to represent a Worker&amp;rsquo;s skill or ability to perform the task at hand.&lt;/p&gt;
 
-&lt;p&gt;For our purposes, we are now going to create a costumized qualification test consisting of multiple choice questionsusing the MTurk API. Once the qualification type has been attached to our HIT we can find it under the  &lt;code&gt;Qualification Types you have created&lt;/code&gt; tab on the &lt;code&gt;Worker requirements section&lt;/code&gt; (more on this later).&lt;/p&gt;
+&lt;p&gt;For our purposes, we are now going to create a customized qualification test consisting of multiple choice questionsusing the MTurk API. Once the qualification type has been attached to our HIT we can find it under the  &lt;code&gt;Qualification Types you have created&lt;/code&gt; tab on the &lt;code&gt;Worker requirements section&lt;/code&gt; (more on this later).&lt;/p&gt;
 
 &lt;p&gt;In this tutorial we are going to access the MTurk API using &lt;a href=&#34;https://boto3.amazonaws.com/v1/documentation/api/latest/index.html&#34; target=&#34;_blank&#34;&gt;Boto3&lt;/a&gt; the Amazon Web Services SDK for Python. First, we need to install the latest Boto3 release via pip:&lt;/p&gt;
 
@@ -478,13 +478,13 @@ Weijia Xu. Thanks all!&lt;/p&gt;
 &amp;lt;/crowd-form&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Once you are satisfied with the result you can preview the task and finish. Note that &lt;code&gt;${image_url}&lt;/code&gt; is a template variable that will be substituted with the actual name of the image from your CSV file when you publish a tasks using this template as described in the next section.&lt;/p&gt;
+&lt;p&gt;Once you are satisfied with the result you can preview the task and finish. Note that &lt;code&gt;${image_url}&lt;/code&gt; is a template variable that will be substituted with the actual name of the image from your CSV file when you publish a task using this template as described in the next section.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;publishing-batches&#34;&gt;Publishing batches&lt;/h3&gt;
 
-&lt;p&gt;Now the project is set up we can go ahead and publish batches of tasks. This is simply done by clicking on the &lt;code&gt;Publish Batch&lt;/code&gt; button on the new project and uploading a CSV file containing your HIT data. Note that you should add the name of the template variabel (e.g. imaga_url) as a header to your CSV file. Once the CSV file is uploaded, MTurk will create an individual HIT for each row in your file.&lt;/p&gt;
+&lt;p&gt;Now the project is set up we can go ahead and publish batches of tasks. This is simply done by clicking on the &lt;code&gt;Publish Batch&lt;/code&gt; button on the new project and uploading a CSV file containing your HIT data. Note that you should add the name of the template variable (e.g., imaga_url) as a header to your CSV file. Once the CSV file is uploaded, MTurk will create an individual HIT for each row in your file.&lt;/p&gt;
 
 &lt;p&gt;Enjoy! ☕️&lt;/p&gt;
 
