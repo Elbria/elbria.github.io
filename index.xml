@@ -5,12 +5,20 @@
     <link>https://elbria.github.io/</link>
       <atom:link href="https://elbria.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>eleftheria </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 20 Oct 2021 10:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Thu, 10 Feb 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>eleftheria </title>
       <link>https://elbria.github.io/</link>
     </image>
+    
+    <item>
+      <title>Tracking progress in Style Transfer: From Human to Automatic Evaluation.</title>
+      <link>https://elbria.github.io/talk/leya/</link>
+      <pubDate>Thu, 10 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/talk/leya/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> How do cross-lingual semantic divergences impact neural machine translation? </title>
@@ -49,14 +57,6 @@
       <link>https://elbria.github.io/publication/e/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <guid>https://elbria.github.io/publication/e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-lingual Semantic Divergences</title>
-      <link>https://elbria.github.io/talk/seminar_lecture/</link>
-      <pubDate>Thu, 15 Apr 2021 15:00:00 +0000</pubDate>
-      <guid>https://elbria.github.io/talk/seminar_lecture/</guid>
       <description></description>
     </item>
     
@@ -162,14 +162,6 @@ Weijia Xu. Thanks all!&lt;/p&gt;
       <link>https://elbria.github.io/publication/a/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://elbria.github.io/publication/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting Semantic Divergences: An empirical study on English-French bitexts</title>
-      <link>https://elbria.github.io/talk/masc_slp/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://elbria.github.io/talk/masc_slp/</guid>
       <description></description>
     </item>
     
