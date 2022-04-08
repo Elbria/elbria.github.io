@@ -5,12 +5,20 @@
     <link>https://elbria.github.io/</link>
       <atom:link href="https://elbria.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>briakou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>briakou</title>
       <link>https://elbria.github.io/</link>
     </image>
+    
+    <item>
+      <title>BitextEdit: Automatic Bitext Editing for Improved Low-Resource Machine Translation</title>
+      <link>https://elbria.github.io/publication/j/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/j/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Synthetic Translations Improve Bitext Quality?</title>
