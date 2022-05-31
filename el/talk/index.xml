@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eleftheria</title>
+    <link>https://elbria.github.io/el/talk/</link>
+      <atom:link href="https://elbria.github.io/el/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>eleftheria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>el</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Thu, 10 Feb 2022 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elbria.github.io/img/icon-192.png</url>
+      <title>eleftheria</title>
+      <link>https://elbria.github.io/el/talk/</link>
+    </image>
+    
+    <item>
+      <title>Tracking progress in Style Transfer: From Human to Automatic Evaluation.</title>
+      <link>https://elbria.github.io/el/talk/leya/</link>
+      <pubDate>Thu, 10 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/el/talk/leya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> How do Cross-lingual Semantic Divergences Impact Neural Machine Translation? </title>
+      <link>https://elbria.github.io/el/talk/nlp_with_friends/</link>
+      <pubDate>Wed, 20 Oct 2021 10:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/el/talk/nlp_with_friends/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
