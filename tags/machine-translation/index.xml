@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Translation | eleftheria</title>
+    <link>https://elbria.github.io/tags/machine-translation/</link>
+      <atom:link href="https://elbria.github.io/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Translation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elbria.github.io/img/icon-192.png</url>
+      <title>Machine Translation</title>
+      <link>https://elbria.github.io/tags/machine-translation/</link>
+    </image>
+    
+    <item>
+      <title>Bitext Refinement</title>
+      <link>https://elbria.github.io/project/refine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/refine/</guid>
+      <description>&lt;p&gt;Mined bitexts can contain imperfect translations that yield unreliable training signals for Neural Machine Translation.
+While filtering such pairs out is known to improve final model quality, it is suboptimal in low-resource conditions where even mined data can be limited.
+Can we do better? How can we improve machine translation by refining its data?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Divergences in Machine Translation</title>
+      <link>https://elbria.github.io/project/analyze/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/analyze/</guid>
+      <description>&lt;p&gt;Parallel texts&amp;mdash;a source paired with its (human) translation&amp;mdash;are routinely used for training machine translation systems assuming they are equivalent in meaning.
+Yet parallel texts might contain semantic divergences.
+How do those divergences interact with neural machine translation training and evaluation?
+How can we calibrate our assumptions to model parallel texts better?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

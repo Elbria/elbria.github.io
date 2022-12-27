@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eleftheria</title>
+    <link>https://elbria.github.io/project/</link>
+      <atom:link href="https://elbria.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>eleftheria</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elbria.github.io/img/icon-192.png</url>
+      <title>eleftheria</title>
+      <link>https://elbria.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Bitext Refinement</title>
+      <link>https://elbria.github.io/project/refine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/refine/</guid>
+      <description>&lt;p&gt;Mined bitexts can contain imperfect translations that yield unreliable training signals for Neural Machine Translation.
+While filtering such pairs out is known to improve final model quality, it is suboptimal in low-resource conditions where even mined data can be limited.
+Can we do better? How can we improve machine translation by refining its data?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting Semantic Divergences At Scale</title>
+      <link>https://elbria.github.io/project/detect/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/detect/</guid>
+      <description>&lt;p&gt;Quantifying fine-grained cross-lingual semantic divergences at scale, requires computational
+models that  do not rely on human-labeled supervision.
+How can we draw on linguistics and translation theories studies to account for gold supervision?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Divergences in Machine Translation</title>
+      <link>https://elbria.github.io/project/analyze/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/analyze/</guid>
+      <description>&lt;p&gt;Parallel texts&amp;mdash;a source paired with its (human) translation&amp;mdash;are routinely used for training machine translation systems assuming they are equivalent in meaning.
+Yet parallel texts might contain semantic divergences.
+How do those divergences interact with neural machine translation training and evaluation?
+How can we calibrate our assumptions to model parallel texts better?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilingual Evaluation</title>
+      <link>https://elbria.github.io/project/evaluate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/evaluate/</guid>
+      <description>&lt;p&gt;As a community, we have overfitted the characteristics of English-language data
+when modeling various tasks, does the same hold for our evaluation metrics?
+How can we evaluate natural language generation when moving multilingual?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilingual Style Transfer</title>
+      <link>https://elbria.github.io/project/xformal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/xformal/</guid>
+      <description>&lt;p&gt;A dominant hypothesis in multilingual research is that models developed and optimized for English can be seamlessly transferred (and perform well!) into a new language by simply accessing data in that language.
+Yet the same task (e.g., formality transfer) might involve modeling different linguistic characteristics across languages.
+How well can we perform style transfer beyond English?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rationalized Semantic Divergences</title>
+      <link>https://elbria.github.io/project/annotate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/annotate/</guid>
+      <description>&lt;p&gt;Detecting fine-grained semantic divergences&amp;mdash;small meaning differences in segments that are treated as exact translation equivalents&amp;mdash;is a hard task even for humans.
+How can we prime humans to think of meaning mismatches that appear at a small granularity?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

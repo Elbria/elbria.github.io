@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluation | eleftheria</title>
+    <link>https://elbria.github.io/tags/evaluation/</link>
+      <atom:link href="https://elbria.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evaluation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elbria.github.io/img/icon-192.png</url>
+      <title>Evaluation</title>
+      <link>https://elbria.github.io/tags/evaluation/</link>
+    </image>
+    
+    <item>
+      <title>Multilingual Evaluation</title>
+      <link>https://elbria.github.io/project/evaluate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/evaluate/</guid>
+      <description>&lt;p&gt;As a community, we have overfitted the characteristics of English-language data
+when modeling various tasks, does the same hold for our evaluation metrics?
+How can we evaluate natural language generation when moving multilingual?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

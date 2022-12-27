@@ -5,12 +5,52 @@
     <link>https://elbria.github.io/tags/</link>
       <atom:link href="https://elbria.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://elbria.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>All</title>
+      <link>https://elbria.github.io/tags/all/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://elbria.github.io/tags/evaluation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Translation</title>
+      <link>https://elbria.github.io/tags/machine-translation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics</title>
+      <link>https://elbria.github.io/tags/semantics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/tags/semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Transfer</title>
+      <link>https://elbria.github.io/tags/style-transfer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/tags/style-transfer/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

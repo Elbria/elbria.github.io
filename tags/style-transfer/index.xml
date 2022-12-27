@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Style Transfer | eleftheria</title>
+    <link>https://elbria.github.io/tags/style-transfer/</link>
+      <atom:link href="https://elbria.github.io/tags/style-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Style Transfer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Eleftheria Briakou</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elbria.github.io/img/icon-192.png</url>
+      <title>Style Transfer</title>
+      <link>https://elbria.github.io/tags/style-transfer/</link>
+    </image>
+    
+    <item>
+      <title>Multilingual Evaluation</title>
+      <link>https://elbria.github.io/project/evaluate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/evaluate/</guid>
+      <description>&lt;p&gt;As a community, we have overfitted the characteristics of English-language data
+when modeling various tasks, does the same hold for our evaluation metrics?
+How can we evaluate natural language generation when moving multilingual?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilingual Style Transfer</title>
+      <link>https://elbria.github.io/project/xformal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/project/xformal/</guid>
+      <description>&lt;p&gt;A dominant hypothesis in multilingual research is that models developed and optimized for English can be seamlessly transferred (and perform well!) into a new language by simply accessing data in that language.
+Yet the same task (e.g., formality transfer) might involve modeling different linguistic characteristics across languages.
+How well can we perform style transfer beyond English?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
