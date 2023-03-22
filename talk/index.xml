@@ -5,12 +5,20 @@
     <link>https://elbria.github.io/talk/</link>
       <atom:link href="https://elbria.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>eleftheria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Eleftheria Briakou</copyright><lastBuildDate>Thu, 10 Feb 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Eleftheria Briakou</copyright><lastBuildDate>Thu, 16 Mar 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>eleftheria</title>
       <link>https://elbria.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Factoring Human Insights into Natural Language Processing.</title>
+      <link>https://elbria.github.io/talk/human_factors/</link>
+      <pubDate>Thu, 16 Mar 2023 09:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/talk/human_factors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tracking progress in Style Transfer: From Human to Automatic Evaluation.</title>
