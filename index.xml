@@ -5,12 +5,20 @@
     <link>https://elbria.github.io/</link>
       <atom:link href="https://elbria.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>eleftheria</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Eleftheria Briakou</copyright><lastBuildDate>Thu, 16 Mar 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Eleftheria Briakou</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>eleftheria</title>
       <link>https://elbria.github.io/</link>
     </image>
+    
+    <item>
+      <title>Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM&#39;s Translation Capability</title>
+      <link>https://elbria.github.io/publication/l/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://elbria.github.io/publication/l/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Factoring Human Insights into Natural Language Processing.</title>
