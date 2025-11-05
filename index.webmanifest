@@ -2,8 +2,8 @@
   "name": "eleftheria",
   "short_name": "eleftheria",
   "lang": "en-us",
-  "theme_color": "#989898",
-  "background_color": "#989898",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
