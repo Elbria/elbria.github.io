@@ -5,7 +5,7 @@
     <link>https://elbria.github.io/authors/</link>
       <atom:link href="https://elbria.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Eleftheria Briakou</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Eleftheria Briakou</copyright>
     <image>
       <url>https://elbria.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,10 +17,11 @@
       <link>https://elbria.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://elbria.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Senior Research Scientist at Google, working on the &lt;a href=&#34;https://gemini.google.com&#34; target=&#34;_blank&#34;&gt;Gemini&lt;/a&gt; family of language models. My research centers on what I see as the most defining open question in AI: how to optimize on the data space.
-I study how data quality and distributional structure shape intelligence and, how to create pluralistic alignment frameworks that reflect many cultures and languages. Ultimately, my goal is to design AI that learns from everyone and serves everyone.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Senior Research Scientist at &lt;a href=&#34;https://deepmind.google/&#34; target=&#34;_blank&#34;&gt;Google Deepmind&lt;/a&gt;, co-building the &lt;a href=&#34;https://gemini.google.com&#34; target=&#34;_blank&#34;&gt;Gemini&lt;/a&gt; family of language models. I spend most of my time establishing the core mechanics of LLM pre-training: data, evals, and scaling behavior, and how these three elements connect across the world&amp;rsquo;s languages. Previously, I drove research-to-production systems for &lt;a href=&#34;https://translate.google.gr/&#34; target=&#34;_blank&#34;&gt;Google Translate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I completed my Ph.D. in Computer Science at the &lt;a href=&#34;https://www.cs.umd.edu&#34; target=&#34;_blank&#34;&gt;University of Maryland, College Park&lt;/a&gt;, where I was a member of the Computational Linguistics and Information Processing (&lt;a href=&#34;https://wiki.umiacs.umd.edu/clip/index.php/Main_Page&#34; target=&#34;_blank&#34;&gt;CLIP&lt;/a&gt;) lab. My dissertation on detecting fine-grained semantic divergences to improve translation understanding won the Best Thesis Award from the &lt;a href=&#34;https://amtaweb.org&#34; target=&#34;_blank&#34;&gt;Association for Machine Translation in the Americas&lt;/a&gt;, where I now serve as a Research Director.&lt;/p&gt;
+
+&lt;p&gt;While much of my current research remains internal to Google, my public contributions are available in my google scholar or in tech reports (e.g. Gemini &lt;a href=&#34;https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/&#34; target=&#34;_blank&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-thinking-updates-march-2025/&#34; target=&#34;_blank&#34;&gt;2.5&lt;/a&gt;, and &lt;a href=&#34;https://blog.google/products-and-platforms/products/gemini/gemini-3/&#34; target=&#34;_blank&#34;&gt;3.0&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
